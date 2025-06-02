@@ -102,7 +102,7 @@ const Login: React.FC = () => {
         </div>
         <IonButton onClick={doLogin} expand="full" shape='round'>
           Login
-        </IonButton> . 
+        </IonButton> 
 
         <IonButton routerLink="/it35-lab/register" expand="full" fill="clear" shape='round'>
           Don't have an account? Register here
