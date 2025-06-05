@@ -22,7 +22,7 @@ import Favorites from './home-tabs/Favorites';
 import Feed from './home-tabs/Feed';
 import Search from './home-tabs/Search';
   
-  const Home: React.FC = () => {
+  const Home: React.FC = () => { 
 
     const tabs = [
       {name:'Feed', tab:'feed',url: '/it35-lab/app/home/feed', icon: bookOutline},
