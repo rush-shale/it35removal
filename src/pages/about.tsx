@@ -29,7 +29,8 @@ import {
   constructOutline,
   rocketOutline,
   shieldCheckmarkOutline,
-  bookOutline
+  bookOutline,
+  handRight
 } from 'ionicons/icons';
 
 const About: React.FC = () => {
@@ -67,8 +68,8 @@ const About: React.FC = () => {
         <IonCard>
           <IonCardHeader>
             <IonCardTitle>
-              <IonIcon icon={hardwareChipOutline} className="ion-margin-end" />
-              Core Topics in Application Development
+              <IonIcon icon={handRight} className="ion-margin-end" />
+              My self
             </IonCardTitle>
           </IonCardHeader>
           <IonCardContent>
