@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://rush-shale.github.io/it35-lab/",
+  "homepage": "https://rush-shale.github.io/removal-v2/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",

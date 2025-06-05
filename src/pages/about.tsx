@@ -93,7 +93,7 @@ const About: React.FC = () => {
         {/* Key Skills */}
         <IonCard>
           <IonCardHeader>
-            <IonCardTitle>Key Skills</IonCardTitle>
+            <IonCardTitle>My Skills</IonCardTitle>
           </IonCardHeader>
           <IonCardContent>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
