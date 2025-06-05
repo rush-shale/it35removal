@@ -45,7 +45,7 @@ const UtiliTrackFavorites: React.FC = () => {
       liked: false,
     },
     {
-      title: ' Sometimes Money HAHAHA',
+      title: ' papasara ko maam ',
       img: 'https://media1.tenor.com/m/nN0WuOGYU0sAAAAC/disapprove-disappointment.gif',
       liked: false,
     },

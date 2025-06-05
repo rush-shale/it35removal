@@ -21,9 +21,9 @@ const SearchContainer: React.FC = () => {
 
   const topics = [
     {
-      title: 'Agile Development',
-      description: 'A flexible, iterative approach to software development.',
-      full: 'Agile Development is a methodology that promotes continuous iteration and testing throughout the development lifecycle. It encourages team collaboration, customer feedback, and flexible response to change.'
+      title: 'Dota 2',
+      description: 'Dota 2 is a free-to-play, multiplayer online battle arena (MOBA) game by Valve..',
+      full: 'The game is known for its complex strategies and tactical depth, requiring players to learn and adapt to various game situations. '
     },
     {
       title: 'CRUD Operations',
